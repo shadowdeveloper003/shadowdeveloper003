@@ -61,13 +61,25 @@
 
 ###
 
-<p align="left">Artificial Intelligence & Machine Learning:</p>
+<h3 align="left">AI Automation & LLM Systems:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
+  <img src="image/n8n2.svg" alt="Claude" width="50">
+  <img src="image/zapier2.jpeg" alt="OpenAI" width="50" height="50">
+  <img src="image/make2.jpeg" alt="Ollama" width="50" height="50">
 </div>
+
+###
+
+<h3 align="left">Artificial Intelligence</h3>
+
+<div align="left">
+  <img src="image/claude2.svg" alt="Claude" width="50">
+  <img src="image/Openai2.svg" alt="OpenAI" width="50" height="50">
+  <img src="image/Ollama.png" alt="Ollama" width="50" height="50">
+  <img src="image/ByteDance.png" alt="ByteDance" width="50" >
+</div>
+
 
 ###
 
@@ -132,53 +144,15 @@
   <img height="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  />
 </div>
 
-###
-
-<br clear="both">
-
-
 
 ###
 
-
-
-###
-
-<p align="left">Machine Learning:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
-</div>
-
-###
-
-<p align="left">AI Automation:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
@@ -194,10 +168,4 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-<br clear="both">
-<div align="right">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 </div>
