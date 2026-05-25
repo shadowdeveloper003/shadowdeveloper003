@@ -22,7 +22,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: shadowdeveloper003
-          games: 'galaga'
+          games: 'pacman'
 
 
       - name: push galaga-contribution-graph.svg to the output branch
