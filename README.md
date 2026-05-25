@@ -90,7 +90,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
